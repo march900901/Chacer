@@ -1,0 +1,9 @@
+*_Data/
+*.resS
+*.exe
+*.unitypackage
+Library/
+Temp/
+Build/
+.obj/
+.vscode/
